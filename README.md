@@ -5,14 +5,14 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 
 - 🌱 I'm currently pursuing my bachelor's degree in Computer Science and Engineering from Indian Institute of Information Technology, Kottayam.
 - 📝 I have previously worked as a Full Stack Developer intern at Navodita Infotech.
-- 🔭 I’m interested in Full Stack Development, DevOps and SRE.
+- 🔭 I’m interested in Full Stack Development, Cloud Technologies and Cloud Native technologies and DevOps.
 - 📈 I enjoy tackling challenging problems on LeetCode and strive to upskill myself in every possible manner.
 - 📫 How to reach me: madalavrahulbabu123@gmail.com
 
 ## 🛠️ Technologies & Tools
 - **Languages**: C/C++, Python, JavaScript, SQL
 - **Frontend**: React, Redux, HTML, CSS, Tailwind CSS, BootStrap
-- **Backend**: Node.js, Express.js, REST API, Socket.io
+- **Backend**: Node.js, Express.js, REST API
 - **Database**: MongoDB, MySQL, Google Firebase
 - **Tools**: Git, Vercel, Postman, Google Cloud Platform
 

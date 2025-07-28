@@ -3,9 +3,9 @@
 ## About Me
 I'm a passionate Full Stack Developer with experience in building scalable web applications that provide seamless user experiences, using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
-- 🌱 I'm currently pursuing my bachelor's degree in Computer Science and Engineering from Indian Institute of Information Technology, Kottayam.
-- 📝 I have previously worked as a Full Stack Developer intern at Navodita Infotech.
-- 🔭 I’m interested in Full Stack Development, Cloud Technologies and Cloud Native technologies and DevOps.
+- 📝 I'm currently working as a Software Engineer at IBM and I've previously worked as a Full Stack Developer intern at Navodita Infotech.
+- 🌱 I'm a recent Computer Science and Engineering graduate from Indian Institute of Information Technology, Kottayam.
+- 🔭 I’m interested in Full Stack Development, Cloud & Cloud Native technologies and DevOps.
 - 📈 I enjoy tackling challenging problems on LeetCode and strive to upskill myself in every possible manner.
 - 📫 How to reach me: madalavrahulbabu123@gmail.com
 
